@@ -1,0 +1,5 @@
+{
+  "name": "SignalFlow",
+  "description": "Aggregates inbound workspace signals with AI summaries",
+  "requestFramePermissions": []
+}
